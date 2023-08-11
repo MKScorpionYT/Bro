@@ -1,0 +1,12 @@
+// JavaScript source code
+var firstname="Ranbir";
+var lastname="Kapoor";
+
+var a = 10;
+var b = 5;
+
+console.log(firstname concat(lastname));
+
+var add = a + b ;
+
+console.log(add);
